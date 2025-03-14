@@ -1,0 +1,4 @@
+mem0ai 
+crewai 
+crewai_tools 
+gradio
